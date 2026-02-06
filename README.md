@@ -75,7 +75,7 @@ This allows you to inform me of any problem with the video files - and fix/updat
 
 Speedtest -
 
-![image](https://user-images.githubusercontent.com/5352226/147900566-024ac5d6-dfef-4c65-a327-5f376002aa0b.png)
+<img width="1290" height="534" alt="image" src="https://github.com/user-attachments/assets/a90d1f23-a2ac-4deb-9e50-12221047b2ce" />
 
 #### Media Count
 Movies - **691**
