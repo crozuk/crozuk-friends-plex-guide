@@ -7,7 +7,6 @@ Important links -
 - **Plex Signup** - [https://www.plex.tv/en-gb/sign-up/](https://www.plex.tv/en-gb/sign-up/)
 - **Plex Web Player** - [https://app.plex.tv/desktop/](https://app.plex.tv/desktop/)
 - **Overseerr** - [https://crozuk.niobe.usbx.me/overseerr](https://crozuk.niobe.usbx.me/overseerr)
-- **Discord Server** - [Invite Link](https://discord.gg/ZdTgsmdqGD)
 
 **Make sure you watch at the best quality possible - check the instructions below for more details.**
 
@@ -67,18 +66,6 @@ Overseerr also provides a way to view content already held on the media server -
 ![image](https://user-images.githubusercontent.com/5352226/147899833-232b5533-bab0-4567-b90f-166a42fef8d3.png)
 
 This allows you to inform me of any problem with the video files - and fix/update accordingly.
-
-### Discord Server
-
-**Discord Server** - [Invite Link](https://discord.gg/ZdTgsmdqGD)
-
-For update to date information and notifications - you can join my Discord server to receive updates -
-
-<img width="1310" alt="image" src="https://user-images.githubusercontent.com/5352226/151474952-e1e686b7-54b1-40ad-b538-8dbd017328c7.png">
-
-You can also request content direct from Discord using the 'Requestrr' bot. Type `/help` in the 'general' channel for details on how to request content.
-
-<img width="745" alt="image" src="https://user-images.githubusercontent.com/5352226/151475231-1fcbd123-1b37-4e7e-807c-f1331ff32d7b.png">
 
 ### Server Snapshot
 
