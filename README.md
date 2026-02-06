@@ -8,13 +8,15 @@ Important links -
 - **Plex Web Player** - [https://app.plex.tv/desktop/](https://app.plex.tv/desktop/)
 - **Overseerr** - [https://crozuk.niobe.usbx.me/overseerr](https://crozuk.niobe.usbx.me/overseerr)
 
+You will also find Plex available as an app on your Android Mobile, iPhone, Fire TV, Apple TV and other devices. 
+
 **Make sure you watch at the best quality possible - check the instructions below for more details.**
 
 ![image](https://user-images.githubusercontent.com/5352226/147898726-ff0fe2f8-69fb-4b14-9c9c-f84fa8a5f63b.png)
 
 ### Getting Started
 
-With over 450+ films and 40+ television shows - my Plex server is always kept up to date with the most recent media releases which I can share with family and friends.
+With over 600+ films and 70+ television shows - my Plex server is always kept up to date with the most recent media releases which I can share with family and friends.
 
 All you need is to register for a [Plex](https://www.plex.tv/en-gb/sign-up/) account - and once complete - let me know the registered email address so I can send you an invite.
 
@@ -69,16 +71,16 @@ This allows you to inform me of any problem with the video files - and fix/updat
 
 ### Server Snapshot
 
-03/01/2021
+06/02/2026
 
 Speedtest -
 
 ![image](https://user-images.githubusercontent.com/5352226/147900566-024ac5d6-dfef-4c65-a327-5f376002aa0b.png)
 
 #### Media Count
-Movies - **497**
+Movies - **691**
 
-TV Shows - **46** (*2089 episodes*)
+TV Shows - **73** (*2740 episodes*)
 
 Sample of 4K movies -
 
