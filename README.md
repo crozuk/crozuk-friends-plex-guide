@@ -6,7 +6,7 @@ Important links -
 
 - **Plex Signup** - [https://www.plex.tv/en-gb/sign-up/](https://www.plex.tv/en-gb/sign-up/)
 - **Plex Web Player** - [https://app.plex.tv/desktop/](https://app.plex.tv/desktop/)
-- **Overseerr** - [https://crozuk.niobe.usbx.me/overseerr](https://crozuk.niobe.usbx.me/overseerr)
+- **Jellyseerr** - [https://jellyseerr-crozuk.niobe.usbx.me/](https://jellyseerr-crozuk.niobe.usbx.me/)
 
 You will also find Plex available as an app on your Android Mobile, iPhone, Fire TV, Apple TV and other devices. 
 
@@ -41,9 +41,9 @@ Plex has support for a wide range of platforms - from laptops, desktops, and pho
 
 ### Requesting Content
 
-Whilst I'm a big fan of my TV/Movie collection - you may find it's missing certain films or TV shows that you'd like to watch. I've implemented [Overseerr](https://overseerr.dev/) to allow anyone with access to my Plex media server to request any film or TV show they like.
+Whilst I'm a big fan of my TV/Movie collection - you may find it's missing certain films or TV shows that you'd like to watch. I've implemented Jellyseerr to allow anyone with access to my Plex media server to request any film or TV show they like.
 
-To access Overseerr visit [https://crozuk.niobe.usbx.me/overseerr](https://crozuk.niobe.usbx.me/overseerr) - where you will be able to login using your Plex account.
+To access Overseerr visit [https://jellyseerr-crozuk.niobe.usbx.me/](https://jellyseerr-crozuk.niobe.usbx.me/) - where you will be able to login using your Plex account.
 
 ![image](https://user-images.githubusercontent.com/5352226/147899473-ff8c231a-6400-4c66-89c3-835a822febd5.png)
 
