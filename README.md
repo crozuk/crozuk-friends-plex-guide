@@ -106,4 +106,4 @@ In some instances, a username/password popup may appear. This can simply be dism
 
 If you have any further questions - please just get in touch.
 
-Richard Crosby - [richardcrosby.co.uk](https://richardcrosby.co.uk/)
+Richard Crosby
